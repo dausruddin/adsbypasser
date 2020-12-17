@@ -1,4 +1,4 @@
-Latest build for this repo: https://gist.github.com/dausruddin/776c974489eadb93aa09449dbda81914
+Latest build for this repo: https://gist.github.com/dausruddin/776c974489eadb93aa09449dbda81914/raw/582fe897aed4694873478515d03c6ec58a458aec/adsbypasser.full.es7.user.js
 
 
 # AdsBypasser
