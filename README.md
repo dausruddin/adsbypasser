@@ -1,3 +1,6 @@
+Latest build for this repo: https://gist.github.com/dausruddin/776c974489eadb93aa09449dbda81914
+
+
 # AdsBypasser
 
 This user script helps you to:
