@@ -7,7 +7,7 @@
       host: [
         /^(imgmonkey|imgtrex|imgve|uploadrr|imageeer|pic-maniac|hulkimge)\.com$/,
         /^www\.uimgshare\.com$/,
-        /^(kropic)\.com$/,
+        /^(kropic|picdollar)\.com$/,
         /^(www\.)?imgsee\.me$/,
         /^imgclick\.net$/,
       ],
@@ -99,8 +99,9 @@
   _.register({
     rule: {
       host: [
-        /^(picbaron|imgbaron|kvador)\.com$/,
+        /^(picbaron|imgbaron|kvador|imgsen|imgsto|fotokiz)\.com$/,
         /^imgfiles\.org$/,
+        /^pics4you\.net$/,
       ],
       path: PATH_RULE,
     },
